@@ -3,6 +3,7 @@
 ## Description
 * Text from different documents can be saved in separate rows in the Excel worksheet.
 * The script will split the text into sentences, each in a separate row, and create the indicated number of clusters based on Cosine Similarity scores.
+* Video demonstration available at https://youtu.be/D_w_nmc7_s4
 
 ## Run Jupyter Notebook in Google Colab
 * Open Google Colab https://colab.research.google.com/
